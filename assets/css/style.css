@@ -12,7 +12,7 @@ body {
 }
 
 .container-fluid {
-	width: 960px;
+	padding: 0;
 
 }
 
